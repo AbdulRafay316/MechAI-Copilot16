@@ -139,5 +139,4 @@ click **Generate Simulation Data** followed by **RUN AGENTIC AI ANALYSIS**:
 ## Notes
 
 - This project is 100% software-based; no hardware is required.
-- The multi-agent architecture is preserved in full — Groq replaces only
-  the underlying AI provider that previously was Google Gemini.
+
